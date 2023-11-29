@@ -1,8 +1,11 @@
 # LIP-LOOM
 LIP LOOM : Deep Learning Model for Lip Reading 
 
+![animation](https://github.com/Fibbzyash/LIP-LOOM/assets/112472346/a1638435-2789-45da-96a4-1111b909bda6)
+
 Project Overview:
 Lip Loom is a pioneering project aimed at enhancing multimedia accessibility through the development of a Deep Learning Model for lip reading. Leveraging the power of Python and TensorFlow, our team has crafted a versatile model capable of not only generating accurate subtitles but also contributing to language translation and content summarization.
+
 
 Key Features:
 
@@ -19,3 +22,4 @@ The project involves data collection, preprocessing, and model development using
 
 
 DATA SET - The Oxford-BBC Lip Reading in the Wild (LRW) dataset serves as a foundational component for training and evaluating the deep learning model in this project.
+![animation](https://github.com/Fibbzyash/LIP-LOOM/assets/112472346/5b5539d4-eb6d-48de-a303-8acee10c625c)
